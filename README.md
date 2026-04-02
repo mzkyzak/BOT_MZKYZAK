@@ -11,26 +11,24 @@ Bot WhatsApp sederhana berbasis Baileys yang dibuat menggunakan JavaScript.
 
 📦 Cara Install
 
-pkg update && pkg upgrade
-pkg install nodejs git
+
+download nodejs terlebih lone
 git clone https://github.com/username/mzkyzak-bot
 cd mzkyzak-bot
 npm install
-node index.js
+npm start 
 
 📱 Cara Penggunaan
 
 1. Jalankan bot
 2. Masukkan nomor WhatsApp (contoh: 62xxx)
-3. Masukkan kode pairing
+3. Masukkan kode pairing mzkyzak
 4. Bot siap digunakan
 
 ⚠️ Catatan
 
 - Pastikan koneksi internet stabil
-- Jika terjadi error, hapus session lalu login ulang:
-
-rm -rf session
+- Jika terjadi error, hapus session lalu login ulang
 
 🛠 Teknologi
 
@@ -40,9 +38,9 @@ rm -rf session
 
 👤 Author
 
-Dikembangkan oleh mzkyzakk
+code by: Lightscrt
+mengembangkan oleh mzkyzak
 
 ---
 
-"Mungkin masih ada beberapa bug, dan ke depannya akan di-update agar lebih optimal.
-Karena keterbatasan perangkat, pengembangan akan dilakukan secara bertahap."
+"Mungkin masih ada beberapa bug, bagian menu download/quotes/ai/kembangkan
