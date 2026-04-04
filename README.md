@@ -60,4 +60,6 @@ npm install
 # 4. Jalankan bot
 npm start
 ```
-## A
+## 📌 Author
+- **Code:LIGHSCRT**
+- **modif:MZKY_ZAK**
