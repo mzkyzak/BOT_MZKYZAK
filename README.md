@@ -49,7 +49,8 @@ Buka Terminal/CMD, lalu jalankan perintah berikut secara berurutan:
 
 ```bash
 # 1. Kloning repository ini
-git clone [https://github.com/mzkyzak/BOT_MZKYZAK.git](https://github.com/mzkyzak/BOT_MZKYZAK.git)
+git clone 
+https://github.com/mzkyzak/BOT_MZKYZAK.git
 
 # 2. Masuk ke direktori bot
 cd BOT_MZKYZAK
